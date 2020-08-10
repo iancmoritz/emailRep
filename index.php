@@ -166,7 +166,7 @@ include("includes/head.php");
           <div class="group_label_input">
             <span>
               <!-- empty element; used to align submit button --></span>
-            <input type="submit" name="application_submit" value="Submit Application" />
+            <input type="submit" name="application_submit" value="Submit" />
           </div>
         </form>
 
